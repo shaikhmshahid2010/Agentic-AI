@@ -181,11 +181,11 @@ mytuple = list(mytuple)
 mytuple.append('abc')
 mytuple = tuple(mytuple)
 
-print(mytuple)
+print(my_tuple)
 
 
 
-(a, *b ,c) = mytuple
+(a, *b ,c) = my_tuple
 
 print(type (c))
 
