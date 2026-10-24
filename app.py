@@ -174,12 +174,12 @@ print(fruits)'''
 # tuples
 
 
-'''mytuple = (2,5,4,7)
+'''my_tuple = (2,5,4,7)
 print(mytuple)
 
-mytuple = list(mytuple)
-mytuple.append('abc')
-mytuple = tuple(mytuple)
+my_tuple = list(mytuple)
+my_tuple.append('abc')
+my_tuple = tuple(mytuple)
 
 print(my_tuple)
 
@@ -189,7 +189,7 @@ print(my_tuple)
 
 print(type (c))
 
-print (mytuple [0:2] )  '''   
+print (my_tuple [0:2] )  '''   
        
        
        
